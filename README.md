@@ -1,6 +1,6 @@
 ## Lucien Loiseau (Marlinski) 👨‍💻
 
-I'm currently doing AI Research on the topic of inferencing 🚀 and agentization 🤖 to bring *machines of loving grace*.
+I'm currently doing AI Research on the topic of inferencing 🚀 and agentization 🤖 to bring us *machines of loving grace*.
 
 I love to learn and pushing tech to the limit with a sense of purpose. I've previously:
 
