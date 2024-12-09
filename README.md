@@ -1,6 +1,6 @@
 ## Lucien Loiseau (Marlinski) 👨‍💻
 
-I'm currently doing AI Research on the topic of inferencing 🚀 and agentization 🤖 and hope *live together in mutually programming harmony*
+I'm currently doing AI Research on the topic of inferencing 🚀 and agentization 🤖, I hope that our relationship with AI will be to *live together in mutually programming harmony*
 
 I love to learn and pushing tech to the limit with a sense of purpose. I've previously:
 
