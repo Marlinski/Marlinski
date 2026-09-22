@@ -2,8 +2,6 @@
 
 I'm currently doing AI Research on the topic of inferencing 🚀 and agentization 🤖 at OVHcloud and I hope that our relationship with AI will be to *live together in mutually programming harmony*. 
 
-To this end, I am building [SHAI](https://github.com/ovh/shai), an **open source** coding AI agent TUI!
-
 I love learning and pushing tech to the limit with a sense of purpose. Previously, I've:
 
 - Built the next IoT infrastructure at [Nodle](https://github.com/NodleCode) using meshed networks and Blockchain ⛓️ because **DePIN**!
@@ -12,4 +10,7 @@ I love learning and pushing tech to the limit with a sense of purpose. Previousl
 - Passionately crafted the first (and only) **off-the-grid** [decentralized social network](https://github.com/Marlinski/Rumble/) on mobile, still thinks it is a great idea though it did not catch💡
 - Contributed to **science** getting an inch further during my [Phd](https://theses.fr/2013TELB0282) 🎓 at Institut Mines Telecom.
 
+🖥️ `$ ssh minitel.marlinski.org`
+
 [marlinski.org](https://marlinski.org) | [X](https://x.com/lucienloiseau )
+
